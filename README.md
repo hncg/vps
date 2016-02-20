@@ -1,9 +1,10 @@
-##vedio platform [data] server
+#vedio platform server
 
-### 提供water数据库的rpc接口，供其它语言的api调用
+#### 提供water数据库的rpc接口，供其它语言api调用
 
-#### install
+#### 1. install
 
-make install
+    make install
 
-test 模块还在补充中...
+#### 2. test
+    make test
